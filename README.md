@@ -12,7 +12,7 @@
 </p>
 
 - 📃 I blog here: https://farshidjahanmanesh.ir
-- 💬 Ask me about: .NET, Ef , Asp.net Core
+- 💬 Ask me about: .NET, Ef , Asp.net Core , CQRS
 - 👯 I’m looking to collaborate on: .NET projects
 
 
